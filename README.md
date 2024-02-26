@@ -54,13 +54,13 @@ This is a fully functional e-commerce website for books designed and developed a
 <p align="center">
 Home Page
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/home.png">  
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/home.png">  
 </td>
   <td width="50%">      
 <p align="center">
   Product Listing
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/product-listing.png">
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/product-listing.png">
 </td> 
 </table>
 <br/>
@@ -72,13 +72,13 @@ Home Page
 <p align="center">
 Product Page
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/product-view.png">  
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/product-view.png">  
 </td>
 <td width="50%">
 <p align="center">
 Cart Page
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/cart.png">  
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/cart.png">  
 </td>
 </table>
 <br/>
@@ -89,13 +89,13 @@ Cart Page
 <p align="center">
   Register Page
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/register-page.png">
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/register-page.png">
 </td> 
 <td width="50%">
 <p align="center">
 Login Page
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/login-page.png">  
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/login-page.png">  
 </td>
 </table>
 <br/>
@@ -106,13 +106,13 @@ Login Page
 <p align="center">
   Admin Dashboard
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/Admin-dashboard.png">
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/Admin-dashboard.png">
 </td> 
 <td width="50%">
 <p align="center">
 Admin Order Management
 </p>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/Orger-Management.png">  
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/Orger-Management.png">  
 </td>
 </table>
 <br/>
