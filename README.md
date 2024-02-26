@@ -14,7 +14,7 @@
 ## About The Project
 <br>
 <p align='center'>
-<img src="https://github.com/Jauharmuhammed/readable-bookstore/blob/main/assets/readable-bookstore%20banner.png" width='70%' >
+<img src="https://github.com/PranavPatil7/BookStorewebapp/blob/main/assets/readable-bookstore%20banner.png" width='70%' >
 </p>
 <br>
 
